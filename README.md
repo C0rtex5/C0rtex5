@@ -7,6 +7,8 @@
 
 ![C0rtex5 's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0rtex5&show_icons=true&theme=algolia)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&langs_count=7&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que estou familarizado:
 
 <div style="display: inline_block"><br/>
