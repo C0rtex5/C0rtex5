@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/C0rtex_5)
 [![Credly](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://www.credly.com/users/abhay-mendes/badges)
 
-![C0rtex5 's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0rtex5&show_icons=true&theme=algolia)
+![C0rtex5 's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0rtex5&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&langs_count=7&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
