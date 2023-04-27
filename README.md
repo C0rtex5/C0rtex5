@@ -1,4 +1,4 @@
-### Hi there! I am Abhay Silveira Mendes and this is my gihub profile. Have fun! 🐱‍👤✌
+### Hi there! I am Abhay Silveira Mendes and this is my Github profile. Have fun! 🐱‍👤✌
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-mendes-5868b1215/)
 [![freeCodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/fcc93fb6891-e35b-4bc9-9f2b-ac809d22f45a)
