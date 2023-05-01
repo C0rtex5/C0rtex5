@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&langs_count=7&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que estou familarizado:
+### These are the technologies that I am familiar with:
 
 <div style="display: inline_block"><br/>
 
