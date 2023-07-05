@@ -21,6 +21,6 @@
  [![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/pt/products/illustrator.html?gclid=CjwKCAjwqZSlBhBwEiwAfoZUIK00loRU_Dcg3Xf2aKZZdjP_9_a_0Ofd44wvvLVbhIt5Icdb0ik_lBoCO6oQAvD_BwE&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjwqZSlBhBwEiwAfoZUIK00loRU_Dcg3Xf2aKZZdjP_9_a_0Ofd44wvvLVbhIt5Icdb0ik_lBoCO6oQAvD_BwE:G:s&s_kwcid=AL!3085!3!596406827930!e!!g!!illustrator!1479761007!62724397572&gad=1)
  [![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
  [![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org/pt/)
- [![gimp](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
+ [![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org)
  
 </div>
