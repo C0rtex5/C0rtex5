@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/C0rtex_5)
 [![Credly](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://www.credly.com/users/abhay-mendes/badges)
 
-### These are the technologies and softwares that I am familiar with:
+### Theese are the technologies and softwares that I am familiar with:
 
 <div style="display: inline_block"></br>
  
@@ -19,4 +19,12 @@
  [![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org/pt/)
  [![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org)
  
+</div>
+
+### Theese are my github stats:
+
+<div style="display: inline_block"></br>
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&theme=radical)
+
 </div>
