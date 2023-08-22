@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/C0rtex_5)
 [![Credly](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://www.credly.com/users/abhay-mendes/badges)
 
-### These are the technologies and software that I am familiar with:
+### These are the technologies and softwares that I am familiar with:
 
 <div style="display: inline_block"></br>
  
