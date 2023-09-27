@@ -30,6 +30,7 @@
 [![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
 [![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org/pt/)
 [![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org)
+[![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com)
 
 ### These are my GitHub stats:
 
