@@ -24,6 +24,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Csharp](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### These are the softwares that I am familiar with:
 
