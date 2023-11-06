@@ -1,14 +1,14 @@
 # Hey there! I am Abhay Silveira Mendes and this is my GitHub profile. Have fun! 😃
 <br>
 
-### Theese are my profile social links:
+### These are my profile social links:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-mendes-5868b1215/)
 [![freeCodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/fcc93fb6891-e35b-4bc9-9f2b-ac809d22f45a)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/C0rtex_5)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/abhay-mendes/badges)
 
-### These are the technologies and softwares that I am familiar with:
+### These are the technologies and software that I am familiar with:
 
 <div style="display: inline_block"></br>
  
@@ -27,7 +27,7 @@
 [![Csharp](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Bun](https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=white)](https://bun.sh)
 
-### These are the softwares that I am familiar with:
+### These are the software that I am familiar with:
 
 [![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
 [![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/pt/products/photoshop/landpb.html?mv=search&s_kwcid=AL!3085!3!340859421278!e!!g!!photoshop!1447265685!53212492301&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjwqZSlBhBwEiwAfoZUICjxgNG8iqTLJh6UQcQC5Mr6a6gaY63NWq4c0iqdGnFfvU_HaMNPyBoCKcsQAvD_BwE:G:s&s_kwcid=AL!3085!3!340859421278!e!!g!!photoshop!1447265685!53212492301&gad=1&gclid=CjwKCAjwqZSlBhBwEiwAfoZUICjxgNG8iqTLJh6UQcQC5Mr6a6gaY63NWq4c0iqdGnFfvU_HaMNPyBoCKcsQAvD_BwE)
