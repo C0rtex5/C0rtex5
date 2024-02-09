@@ -45,6 +45,11 @@
 
 <div style="display: inline_block"></br>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&theme=dark)
+
+</div>
+<div>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=C0rtex5&show_icons=true&theme=dark)
 
 </div>
