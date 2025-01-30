@@ -1,4 +1,4 @@
-I am Cortex and this is my GitHub profile.
+# I am Cortex and this is my GitHub profile.
 <br>
 
 ### These are my profile social links:
