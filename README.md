@@ -1,5 +1,18 @@
-# I am Cortex and this is my GitHub profile.
-<br>
+# Hi! I am Cortex and this is my GitHub profile. Take a look around!
+
+### These are my GitHub stats:
+
+<div>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=C0rtex5&show_icons=true&theme=dark)
+
+</div>
+
+<!-- <div style="display: inline_block"></br>
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&theme=dark)
+
+</div> -->
 
 ### These are my profile social links:
 
@@ -40,16 +53,3 @@
 [![inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://inkscape.org/pt/)
 [![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org)
 [![figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com)
-
-### These are my GitHub stats:
-
-<div style="display: inline_block"></br>
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&theme=dark)
-
-</div>
-<div>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=C0rtex5&show_icons=true&theme=dark)
-
-</div>
