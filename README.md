@@ -1,19 +1,5 @@
 # Hi! I am Cortex and this is my GitHub profile. Take a look around!
 
-### These are my GitHub stats:
-
-<div>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=C0rtex5&show_icons=true&theme=dark)
-
-</div>
-
-<!-- <div style="display: inline_block"></br>
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&theme=dark)
-
-</div> -->
-
 ### These are my profile social links:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-mendes-5868b1215/)
