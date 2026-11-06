@@ -22,7 +22,7 @@ I build Blender tools, 3D workflows, web interfaces, and AI-powered automation.
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
@@ -38,7 +38,8 @@ I build Blender tools, 3D workflows, web interfaces, and AI-powered automation.
 
 [![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge)](https://docs.ultralytics.com/)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.com/)
+[![LM Studio](https://img.shields.io/badge/LM_Studio-202020?style=for-the-badge)](https://lmstudio.ai/)
+[![AnythingLLM](https://img.shields.io/badge/AnythingLLM-4B3B8F?style=for-the-badge)](https://anythingllm.com/)
 
 **🖌️ Graphic design & UI** — Krita, Inkscape, and Figma.
 
