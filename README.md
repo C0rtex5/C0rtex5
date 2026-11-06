@@ -69,7 +69,3 @@ I combine visual design with programming to build 3D tools, Blender extensions, 
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
 I continue to deepen my skills in systems programming, real-time 3D development, and AI-assisted creative tools.
-
-## Certifications
-
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abhay-mendes/badges)
