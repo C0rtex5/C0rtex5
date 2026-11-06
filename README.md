@@ -6,6 +6,19 @@ I build Blender tools, 3D workflows, web interfaces, and AI-powered automation.
 
 ## 📊 GitHub activity
 
+<a href="https://github.com/C0rtex5">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=C0rtex5&show_icons=true&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=C0rtex5&show_icons=true&theme=light_github"
+      alt="C0rtex5 GitHub statistics"
+    />
+  </picture>
+</a>
+
 ## 🛠️ Technical skills
 
 **🎨 3D & Blender** — Modeling, visualization, technical art, Python/`bpy` extensions, versioning tools, and point-cloud workflows.
