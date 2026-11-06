@@ -6,8 +6,7 @@ I build Blender tools, 3D workflows, web interfaces, and AI-powered automation.
 
 ## 📊 GitHub activity
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=C0rtex5&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=C0rtex5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 ## 🛠️ Technical skills
 
@@ -56,5 +55,4 @@ I build Blender tools, 3D workflows, web interfaces, and AI-powered automation.
 ## 📚 Currently learning
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
