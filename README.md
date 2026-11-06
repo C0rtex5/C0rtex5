@@ -6,8 +6,6 @@ I build Blender tools, 3D workflows, web interfaces, and AI-powered automation.
 
 ## 📊 GitHub activity
 
-[![GitHub Metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
-
 ## 🛠️ Technical skills
 
 **🎨 3D & Blender** — Modeling, visualization, technical art, Python/`bpy` extensions, versioning tools, and point-cloud workflows.
