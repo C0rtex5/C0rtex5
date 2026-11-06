@@ -2,7 +2,7 @@
 
 I build Blender tools, 3D workflows, web interfaces, and AI-powered automation.
 
-## 📊 GitHub activity
+## GitHub activity
 
 <a href="https://github.com/C0rtex5">
   <picture>
