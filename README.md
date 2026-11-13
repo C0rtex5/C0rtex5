@@ -46,10 +46,10 @@ I build Blender tools, 3D workflows, web interfaces, and AI-powered automation.
 
 [![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge)](https://docs.ultralytics.com/)
-[![LM Studio](https://img.shields.io/badge/LM_Studio-202020?style=for-the-badge)](https://lmstudio.ai/)
-[![AnythingLLM](https://img.shields.io/badge/AnythingLLM-4B3B8F?style=for-the-badge)](https://anythingllm.com/)
 
 ## Currently learning
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![AnythingLLM](https://img.shields.io/badge/AnythingLLM-4B3B8F?style=for-the-badge)](https://anythingllm.com/)
+[![LM Studio](https://img.shields.io/badge/LM_Studio-202020?style=for-the-badge)](https://lmstudio.ai/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
